@@ -1,0 +1,8 @@
+# Eclipse and macOS build artifacts
+/bin/
+/.metadata/
+*.class
+.DS_Store
+
+# Private local expense records
+/expenses.tsv
